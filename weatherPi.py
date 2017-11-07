@@ -10,7 +10,7 @@ import time
 #open weather map's endpoint
 URL = "http://api.openweathermap.org/data/2.5/weather?q="
 #the authorisation key
-KEY =  "&APPID=9caeab719c222439d4a2747fc6591523"
+KEY =  "&APPID=[key]"
 #an array of cities to cycle through, default is London
 cities = ["London,uk", "New York,us", "Houston", "Miama,us", "Aberdeen,uk"]
 
